@@ -1,4 +1,4 @@
-# sendFileInvokeDNSteal
+# adet: Another DNS Exfiltration Tool
 Bash script for sending file to Invoke-DNSteal server
 
 # Instructions:
