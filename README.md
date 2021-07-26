@@ -1,5 +1,5 @@
 # adet: Another DNS Exfiltration Tool
-Bash script for sending file to Invoke-DNSteal server
+Bash script for DNS file exfiltration using Invoke-DNSteal in server side.
 
 # Instructions:
 1. Run [Invoke-DNSteal.py](https://github.com/JoelGMSec/Invoke-DNSteal ) in your DNS server
