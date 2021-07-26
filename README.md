@@ -13,7 +13,7 @@ base64 -d <received_file>
 ```
 
 Example: Sending [byp4xx.py](https://github.com/lobuhi/byp4xx/blob/main/byp4xx.py) to my own customized C2/DNS server 
-![](dnsteal.jpg =250x)
+![=250x](dnsteal.jpg)
 
 # TO-DO:
  - Add random sleep option
